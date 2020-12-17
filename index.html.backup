@@ -27,7 +27,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
       <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none">Nguyen Ngoc Tai</span>
+        <span class="d-block d-lg-none">Nguyen Ngoc Taai</span>
         <span class="d-none d-lg-block">
           <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">
         </span>
@@ -68,13 +68,11 @@
       <a>Date of birth: </a><a href="https://mail.google.com/mail">August 05, 1994<br></a>
 			<a>Gender: </a><a href="https://mail.google.com/mail">Male<br></a>
 			<a>Marital status: </a><a href="https://mail.google.com/mail">Single<br></a>
-      <a>Mobile: </a><a href="https://mail.google.com/mail">no phone number<br></a>
-<!--      <a>Mobile: </a><a href="https://mail.google.com/mail">+84 973 527 587 </a>-<a href="https://mail.google.com/mail"> +84 799 900 579<br></a> -->
+      <a>Mobile: </a><a href="https://mail.google.com/mail">+84 973 527 587 </a>-<a href="https://mail.google.com/mail"> +84 799 900 579<br></a>
       <a>Skype: </a><a href="https://skype" target="_blank">nguyenngoctaibp<br></a>
-      <a>Telegram: </a><a href="https://t.me/Nntaibp" target="_blank">Nntaibp<br></a>
-<!--  <a>E-mail: </a><a href="https://mail.google.com/mail">nguyenngoctaibp@gmail.com<br></a> -->
-      <a>E-mail: </a><a href="https://mail.google.com/mail">no email<br></a>
-			<a>Address: </a><a href="https://www.google.com/maps/place/Industrial+University+Of+HoChiMinh+City/@10.8227802,106.6873831,16.88z/data=!4m5!3m4!1s0x3174deb3ef536f31:0x8b7bb8b7c956157b!8m2!3d10.822207!4d106.6874948" target="_blank">107/10 Nguyen Thai Son, Ward 4, Go Vap District, Ho Chi Minh City<br></a>
+      <a>Telegram: </a><a href="https://t.me/nntaibpit" target="_blank">nntaibpit<br></a>
+      <a>E-mail: </a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=nguyenngoctaibp@gmail.com&su=Email support&body=Hi Tài,&cc=nguyenngoctaibp@gmail.com&bcc=nguyenngoctaibp@gmail.com" target="popup">Contact me<br></a>
+			<a>Address: </a><a href="https://www.google.com/maps/place/Industrial+University+Of+HoChiMinh+City/@10.8227802,106.6873831,16.88z/data=!4m5!3m4!1s0x3174deb3ef536f31:0x8b7bb8b7c956157b!8m2!3d10.822207!4d106.6874948" target="_blank">No Address<br></a>
           </div>	  
           <p class="lead mb-5">I'm a System Administrator.<br>
           System administrator with a experience in building, administrating and optimizing systems and manage data centers that consists of environments including Linux, Networking and service.<br>
@@ -92,6 +90,15 @@
             <a href="https://www.facebook.com/nntaibp.it" target="_blank">
               <i class="fab fa-facebook-f"></i>
             </a>
+            <a href="https://t.me/nntaibpit" target="_blank">
+              <i class="fab fa-telegram"></i>
+            </a>
+            <a href="https://www.instagram.com/t.a.i.r.o.d.i.n.h.o" target="_blank">
+              <i class="fab fa-instagram"></i>
+            </a>
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nguyenngoctaibp@gmail.com&su=Email support&body=Hi Tài,&cc=nguyenngoctaibp@gmail.com&bcc=nguyenngoctaibp@gmail.com" target="_blank">
+              <i class="fab fa-google"></i>
+            </a>
           </div>
         </div>
       </section>
@@ -105,7 +112,7 @@
           <div class="resume-item d-flex flex-column flex-md-row mb-5">
             <div class="resume-content mr-auto">
               <h3 class="mb-0">YouNet Group</h3>
-              <div class="subheading mb-3">Systems Engineer</div>
+              <div class="subheading mb-3">System Engineer</div>
               <p>
                 Building, managing and operating network systems and service infrastructure.<br> 
                 Design, deploy and operate service infrastructure, storage server connection system.<br>
@@ -139,6 +146,22 @@
             </div>
             <div class="resume-date text-md-right">
               <span class="text-primary">July 2020 - Present</span>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Kim Dental</h3>
+              <div class="subheading mb-3">Freelancer</div>
+              <p>
+                Maintain current production servers for all VoIP traffic<br>
+                Respond to customer VoIP service requests and ensure appropriate resolution of the same<br> 
+                Perform troubleshooting on customer VoIP incidents<br>
+                Support conguration and maintenance CallCenter<br> 
+			  </p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">July 2019 - August 2019</span>
             </div>
           </div>
 
