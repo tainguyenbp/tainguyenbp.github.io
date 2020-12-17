@@ -1,8 +1,8 @@
 {
-    "title": "Resume",
+    "title": "Resume - Nguyen Ngoc Tai",
     "name": "startbootstrap-resume",
     "version": "5.0.1",
-    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+    "description": "Resume - Nguyen Ngoc Tai",
     "keywords": [
         "css",
         "sass",
@@ -13,17 +13,17 @@
     ],
     "homepage": "",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/tainguyenbp/tainguyenbp.github.io/issues",
+        "email": "nguyenngoctaibp@gmail.com"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Nguyễn Ngọc Tài (https://tainguyenbp.github.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
+        "url": "https://github.com/tainguyenbp/tainguyenbp.github.io.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.2.0",
