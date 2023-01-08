@@ -1,3 +1,8 @@
+Thông số vỏ xe
+```
+ỏ xe Michelin, vỏ xe Dunlop, Vỏ xe Maxxis,… là những sản phẩm cao cấp trên toàn thế giới nên bạn có thể dùng đến 20,000 – 25,000km mới phải thay
+
+```
 Thông số NSD
 ```
 Thông số nhông sên dĩa zin (nsd) – nhông xích Honda Winner
