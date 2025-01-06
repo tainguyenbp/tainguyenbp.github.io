@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabbed Experience Section</title>
+    <style>
+        .tab {
+            display: flex;
+            cursor: pointer;
+            padding: 10px;
+            background: #f1f1f1;
+            border: 1px solid #ccc;
+            margin-right: 5px;
+        }
+
+        .tab-content {
+            display: none;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-top: none;
+        }
+
+        .tab.active {
+            background: #ddd;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div class="tab" onclick="showTabContent('onpoint')">OnPoint E-commerce</div>
+    </div>
+
+    <div id="onpoint" class="tab-content">
+        <h3>OnPoint E-commerce</h3>
+        <p><strong>Role:</strong> DevOps Engineer | DevOps/SRE Teams | 0xAWS | 0xAzure | 0xGCP | 0xCKA | 0CKS</p>
+        <p>
+            Collaborated with SWE, QC, and PO teams to automate and accelerate the processes of build, test, release, 
+            and deployment of applications into a runtime environment quickly and reliably, improve application performance 
+            and reliability through performance tuning, load testing, and code optimization.<br>
+            Integrated security best practices into CI/CD pipelines by establishing a DevSecOps culture. Automated security 
+            scanning and compliance validation with tools like Snyk and Soblew, achieving a significant reduction in vulnerabilities 
+            and meeting all regulatory audit requirements.<br>
+            Designed and implemented a GitOps-based continuous deployment pipeline leveraging GHA, Jenkins for CI, and ArgoCD for CD, 
+            achieving an acceleration in release cycles and an improvement in code quality through a significant reduction in production 
+            bugs, reducing configuration drift, and decreasing rollback incidents across 8+ Kubernetes clusters.
+        </p>
+        <p><strong>Duration:</strong> March 2021 - Present | Hybrid</p>
+    </div>
+
+    <script>
+        function showTabContent(tabId) {
+            // Hide all tab contents
+            const contents = document.querySelectorAll('.tab-content');
+            contents.forEach(content => content.classList.remove('active'));
+
+            // Remove active class from all tabs
+            const tabs = document.querySelectorAll('.tab');
+            tabs.forEach(tab => tab.classList.remove('active'));
+
+            // Show the selected tab content
+            document.getElementById(tabId).classList.add('active');
+
+            // Add active class to the selected tab
+            event.target.classList.add('active');
+        }
+    </script>
+</body>
+</html>
