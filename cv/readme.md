@@ -23,11 +23,16 @@ Highly skilled and motivated Site Reliability Engineer (SRE) with 3 years of exp
 
 ## Technical Skills
 - Programming Languages: Shell scripting, Python, Go,
-- Cloud Technologies: AWS, Azure, GCP
+- Cloud Technologies: AWS, Azure, GCP, VMware, OVHCloud
 - Containerization and Orchestration: Docker, Kubernetes, AKS, RKE, EKS
-- Infrastructure as Code (IaC): Terraform, Ansible, Packer, Chef.
+- Infrastructure as Code (IaC): Terraform, Atlantis, Packer.
+- Configuration Management: Ansible, Chef
+- Networking/Security: TCP/IP, DNS, Switch and Routing, IPSec/SSL VPN, Zero Iptables, Fail2ban, Firewalld, CSF, pFsense, CyberArk, Vault.
+- SAST: Snyk, SonarQube, GHAS.
+- Telecom: Asterisk, FreePBX, CIS AutoDial, dahdi tool E1, GSM gateway.
 - Continuous Integration/Continuous Delivery (CI/CD): Jenkins, GitLabCI, Github Action, ArgoCD, FluxCD
-- Monitoring and Alerting: Prometheus, Grafana, Victoriametric, ELK Stack, LGTM Stack, PLG Stack
+- Distributed tracing: Tempo, Jaeger, OpenTelemetry, Sentry, APM Elasticsearch
+- Monitoring and Alerting: Prometheus, Grafana, VictoriaMetrics, ELK Stack, LGTM Stack, PLG Stack
 - Incident Response and Troubleshooting: PagerDuty, Splunk, New Relic
 - Reliability Engineering: SLA/SLO, Error Budgets
 - Networking: TCP/IP, DNS, Load Balancing
