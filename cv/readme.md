@@ -1,9 +1,9 @@
 # Nguyen Ngoc Tai
 
-**Address:** [Address], [City, State, ZIP]  
-**Phone:** [Phone Number]
+**Address:** [Address], [Ho Chi Minh City, State, ZIP]  
+**Phone:** [+84 974 479 437]
 **Email:** [Email Address]
-**Github:** [Github Address]
+**Github:** [tainguyenbp]
 
 
 ## Objective
@@ -23,15 +23,15 @@ Highly skilled and motivated Site Reliability Engineer (SRE) with 3 years of exp
 
 ## Technical Skills
 - Programming Languages: Shell scripting, Python, Go,
-- Cloud Technologies: AWS, Azure, Google Cloud Platform
-- Containerization and Orchestration: Docker, Kubernetes
-- Infrastructure as Code (IaC): Terraform, Ansible
-- Continuous Integration/Continuous Delivery (CI/CD): Jenkins, GitLab CI/CD
-- Monitoring and Alerting: Prometheus, Grafana, ELK Stack
+- Cloud Technologies: AWS, Azure, GCP
+- Containerization and Orchestration: Docker, Kubernetes, AKS, RKE, EKS
+- Infrastructure as Code (IaC): Terraform, Ansible, Packer, Chef.
+- Continuous Integration/Continuous Delivery (CI/CD): Jenkins, GitLabCI, Github Action, ArgoCD, FluxCD
+- Monitoring and Alerting: Prometheus, Grafana, Victoriametric, ELK Stack, LGTM Stack, PLG Stack
 - Incident Response and Troubleshooting: PagerDuty, Splunk, New Relic
-- Reliability Engineering: SLA/SLO, Error Budgets, Chaos Engineering
+- Reliability Engineering: SLA/SLO, Error Budgets
 - Networking: TCP/IP, DNS, Load Balancing
-- Collaboration and Communication: Agile, Scrum, Jira, Confluence
+- Collaboration and Communication: Jira, Confluence
 
 ## Experience
 
